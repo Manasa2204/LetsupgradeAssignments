@@ -4,9 +4,9 @@ class EmployeeDetails {
     String name;
     void display()
     {
-        System.out.println("The name of the employee is"+name);
+        System.out.println("The name of the employee is "+name);
         System.out.println("The age is "+age);
-        System.out.println("city);
+        System.out.println("The city is "+city);
     }
 }
 public class Employee {
